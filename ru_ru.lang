@@ -106,7 +106,7 @@ tile.create:axle_encased_andesite.name=Вал в андезитовая корп
 tile.create:axle_encased_brass.name=Вал в латунный корпусе
 tile.create:belt.name=Механический Ремень
 tile.create:chute.name=Желоб
-tile.create:millstone.name=Мельничный жерновжелоб
+tile.create:millstone.name=Мельничный жернов
 tile.create:piston.name=Механический поршень
 tile.create:piston_sticky.name=Липкий механический поршень
 tile.create:piston_pole.name=Удлинетель поршня
@@ -208,20 +208,20 @@ tile.create:stone_bricks_fancy_tuff.name=Причудливые Туфовые �
 tile.create:stone_bricks_fancy_veridium.name=Причудливые Веридиумовые кирпичи
 
 #Pillars
-tile.create:stone_pillar_andesite.name=Андезитовая ограда
-tile.create:stone_pillar_asurine.name=Азуриновая ограда
-tile.create:stone_pillar_calcite.name=Кальцитовая ограда
-tile.create:stone_pillar_crimsite.name=Кримзитовая ограда
-tile.create:stone_pillar_deepslate.name=Сланецовая ограда
-tile.create:stone_pillar_diorite.name=Диоритовая ограда
-tile.create:stone_pillar_dripstone.name=Капельниковая ограда
-tile.create:stone_pillar_granite.name=Гранитовая ограда
-tile.create:stone_pillar_limestone.name=Известняковая ограда
-tile.create:stone_pillar_ochrum.name=Охровая ограда
-tile.create:stone_pillar_scorchia.name=Скорчивая ограда
-tile.create:stone_pillar_scoria.name=Скоривая ограда
-tile.create:stone_pillar_tuff.name=Туфовая ограда
-tile.create:stone_pillar_veridium.name=Веридиумовая ограда
+tile.create:stone_pillar_andesite.name=Андезитовая колонна
+tile.create:stone_pillar_asurine.name=Азуриновая колонна
+tile.create:stone_pillar_calcite.name=Кальцитовая колонна
+tile.create:stone_pillar_crimsite.name=Кримзитовая колонна
+tile.create:stone_pillar_deepslate.name=Сланецовая колонна
+tile.create:stone_pillar_diorite.name=Диоритовая колонна
+tile.create:stone_pillar_dripstone.name=Капельниковая колонна
+tile.create:stone_pillar_granite.name=Гранитовая колонна
+tile.create:stone_pillar_limestone.name=Известняковая колонна
+tile.create:stone_pillar_ochrum.name=Охровая колонна
+tile.create:stone_pillar_scorchia.name=Скорчивая колонна
+tile.create:stone_pillar_scoria.name=Скоривая колонна
+tile.create:stone_pillar_tuff.name=Туфовая колонна
+tile.create:stone_pillar_veridium.name=Веридиумовая колонна
 
 #Слоёный
 tile.create:stone_layered_andesite.name=Слоёный Андезит
